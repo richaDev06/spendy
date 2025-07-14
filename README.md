@@ -33,11 +33,3 @@ Spendy is a clean and interactive expense tracker web app that helps users manag
 4. Set your monthly budget limits in each category.
 
 ---
-
-## 📸 Screenshots
-
-> Add screenshots here (optional but highly recommended)
-
----
-
-## 📂 Folder Structure
